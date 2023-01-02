@@ -19,3 +19,9 @@ console.log(`
     user is: ${fullName}
     password is: ${password}
 `)
+
+
+var demo = document.getElementById("demo")
+demo.innerHTML = "abdul ahad";
+
+document.write("just testing this statement")
